@@ -11,4 +11,6 @@ Analysis of the data can be found in the file titled "Module 4 Written Report.do
 4. Open and read "Module 4 Written Report.docx" for analysis of presented data
 
 ## Notes
-All necessary files are in the main directory and the "Resources" directory. The archive contains earlier versions, incase an earlier edit needs to be reverted to
+All necessary files are in the main directory and the "Resources" directory. The archive contains earlier versions, incase an earlier edit needs to be reverted to.
+
+All code is my own, or from the pandas_challege starter. Stack Overflow was used extensively throughout this process
